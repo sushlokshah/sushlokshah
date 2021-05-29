@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushlokshahkop3@gmail.com)
 &nbsp;
-<br />
-<br />
 
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/sushlok-shah-a99233192/
