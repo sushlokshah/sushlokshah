@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 -->
+![](https://komarev.com/ghpvc/?username=sushlokshah)
 - :school: - Pursuing 2nd year of Under Graduation at [Visvesvarya National Institute of Techonology,Nagpur](https://vnit.ac.in/) in Electronics and Communication Engineering.
 - I have strong interset in computer vision and its real time application in Robotics.
 - 🔭 I'm currently working on visual odometry.
